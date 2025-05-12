@@ -1,0 +1,6 @@
+| Tipo de dato    | Cómo se recorre             | Desempaquetar                  |
+| --------------- | --------------------------- | ------------------------------ |
+| Lista simple    | `for x in lista:`           | Solo un valor por vuelta       |
+| Lista de tuplas | `for a, b in lista:`        | Dos (o más) valores por vuelta |
+| Diccionario     | `for k in dicc:`            | Solo claves                    |
+| Diccionario     | `for k, v in dicc.items():` | Clave y valor                  |
